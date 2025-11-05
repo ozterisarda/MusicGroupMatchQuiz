@@ -78,7 +78,7 @@ You need to have Python installed on your system.
 
 &nbsp;   ```bash
 
-&nbsp;   git clone \[https://github.com/YourUsername/MusicGroupMatchQuiz.git](https://github.com/YourUsername/MusicGroupMatchQuiz.git)
+&nbsp;   git clone \[https://github.com/ozterisarda/MusicGroupMatchQuiz.git](https://github.com/ozterisarda/MusicGroupMatchQuiz.git)
 
 &nbsp;   cd MusicGroupMatchQuiz
 
@@ -104,11 +104,7 @@ You need to have Python installed on your system.
 
 
 
----
 
-
-
-Bu son versiyon, hem temiz bir sunum sağlıyor hem de potansiyel işverenlere projenin bir kopyala-yapıştır çalışması olmadığını, aksine \*\*temel becerilerinizi sergileyen\*\* bir öğrenme ürünü olduğunu net bir şekilde iletiyor.
 
 
 
