@@ -1,15 +1,15 @@
 import webbrowser
-ws = "https://www.youtube.com/watch?v=0J2QdDbelmY"
-bs = "https://www.youtube.com/watch?v=0qanF-91aJo"
-bn = "https://www.youtube.com/watch?v=KrZHPOeOxQQ"
-ks = "https://www.youtube.com/watch?v=ZhIsAZO5gl0"
-ab = "https://www.youtube.com/watch?v=XEjLoHdbVeE"
-ac = "https://www.youtube.com/watch?v=pAgnJDJN4VA"
-su = "https://www.youtube.com/watch?v=btPJPFnesV4"
-pm = "https://www.youtube.com/watch?v=9oDxynh7rG0"
-nr = "https://www.youtube.com/watch?v=hTWKbfoikeg"
-mp = "https://www.youtube.com/watch?v=N-aK6JnyFmk"
-al = "https://www.youtube.com/watch?v=bbv0ySIp7oY&pp=ygUYbmVkZW4gYXRlc2l0IG9sbWFsxLFzxLFu"
+ws = "https://www.youtube.com/watch?v=0mWM0S1dMro&list=PLAx1f0mne98qVZ59ZYHjUE3-hp_MIogpu"
+bs = "https://www.youtube.com/watch?v=0qanF-91aJo&list=PLjbeMSuarTQMKSMVYkfUvvTG7YfTDRJRI"
+bn = "https://www.youtube.com/watch?v=-nlDy6h-v9c&list=PLA424057908E96379"
+ks = "https://www.youtube.com/watch?v=16cEJ-CBejA&list=PLwDmVi51SV_Hy6Kl5TrfM3fTo-_Z1a634"
+ab = "https://www.youtube.com/watch?v=-crgQGdpZR0&list=PL8402127C9DE495CB"
+ac = "https://www.youtube.com/watch?v=-0Oa5wvARSc&list=PLpZaq7kciiNIscD5bMLUIyesR_EHTSvxu"
+su = "https://www.youtube.com/watch?v=1HiG--f604k&list=PL1F0C67883D073645"
+pm = "https://www.youtube.com/watch?v=-YD5p-WoR7E&list=PLEIMU-Mdvjj_FpqhczDr8UQqLFu8dxPr1"
+nr = "https://www.youtube.com/watch?v=0AJjE53Ura0&list=PLF3FE9FEB122AE2A4"
+mp = "https://www.youtube.com/watch?v=1xa7NWRJjPQ&list=PLE1A0255234131C34&pp=0gcJCbAEOCosWNin"
+
 def yt():
     if winners[0] == "Black Sabbath":
         webbrowser.open(bs)
@@ -176,7 +176,11 @@ while True:
     yes = input("Dinlmek ister misin? ")
     if yes == "evet" or yes == "yes" or yes =="Evet" or yes == "EVET" or yes == "YES":
         yt()
-
+        print("-------------------------------")
+        continue
+    else:
+        print("-------------------------------")
+        continue   
 
 
     
